@@ -4,7 +4,7 @@
 Skilled Society - assignment-nine-1190
 
 # Purpose: 
-Trade Talents. Build Community. (Assigment a mark na paile to SCIC te jaite diben na, eidai main purpose, r ki likhbo ashole bujhteci na.)
+Skilled Society is a community-focused skill-sharing platform where users can trade talents, connect with others, and showcase their skills. The platform features secure authentication, protected routes, and a smooth single-page experience designed to encourage collaboration and personal growth.
 
 # live URL: 
 https://assignment-nine-1190.web.app
